@@ -16,9 +16,9 @@ Este material se comparte bajo la licencia [Creative Commons Attribution-ShareAl
 
 ### Citar como
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5668300.svg)](https://doi.org/10.5281/zenodo.5668300)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6891906.svg)](https://zenodo.org/record/6891906)
 
-No, Irma Noemí. (2022, Julio) Ejemplos de Mapeo de Movilidad Google Mensual en pandemia en Argentina. Zenodo. https://doi.org/10.5281/zenodo.5668300
+No, Irma Noemí. (2022) Ejemplos de Mapeo de Movilidad Google Mensual en pandemia en Argentina. Zenodo. https://zenodo.org/record/6891906
 
 ### Recurso visible en: 
 https://irmanoemino.github.io/mapasejemplomovilidad/
