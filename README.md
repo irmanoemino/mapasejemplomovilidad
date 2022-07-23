@@ -7,7 +7,7 @@ Estamos trabajando sobre bases de datos oficiales y analizando la situación at�
 Cualquier colaboración es bienvenida!  
 
 
-![ ](https://c.tenor.com/dZwkAAJEtYwAAAAC/gasolina-precios.gif)
+![ ](https://c.tenor.com/GopcJIF_Y98AAAAC/lost-kermit.gif)
 
 
 ### Licencia
