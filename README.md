@@ -24,4 +24,4 @@ No, Irma Noemí. (2022) Ejemplos de Mapeo de Movilidad Google Mensual en pandemi
 https://irmanoemino.github.io/mapasejemplomovilidad/
 
 ### Video de explicación
-https://youtu.be/T4KDyL4YsZE
+https://youtu.be/o0b-UN7C0z4
